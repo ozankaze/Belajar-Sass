@@ -8,7 +8,7 @@
 
 . nama/folder/  sass -h 
 = bisa ngapain ajah 
-
+ 
 . nama/folder/  sass contoh.scss style.css 
 = dari contoh.scss maukita transfer file ke style.css
 
