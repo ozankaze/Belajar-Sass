@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,EAAG;EACC,WAAW,ECDO,kBAAkB;EDEpC,SAAS,ECDS,IAAI;EDEtB,KAAK,ECDa,SAAS",
+"sources": ["kelas/layout.scss","kelas/_variable.scss"],
+"names": [],
+"file": "style.css"
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,EAAG;EACC,WAAW,ECDO,kBAAkB;EDEpC,SAAS,ECAS,IAAI;EDCtB,KAAK,ECAa,IAAI;;ADE1B,CAAE;EACE,WAAW,ECLO,mBAAmB;EDMrC,SAAS,ECLS,IAAI;EDMtB,KAAK,ECJa,IAAI",
+"sources": ["bahan/kelas/layout.scss","bahan/kelas/_variable.scss"],
+"names": [],
+"file": "style.css"
+}
